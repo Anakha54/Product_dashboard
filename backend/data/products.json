@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 6639,
+    "stock": 10,
+    "lowStockThreshold": 10,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 20749,
+    "stock": 1,
+    "lowStockThreshold": 8,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "USB-C Cable",
+    "price": 1078,
+    "stock": 3,
+    "lowStockThreshold": 15,
+    "image": "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Laptop Stand",
+    "price": 3778,
+    "stock": 4,
+    "lowStockThreshold": 5,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b3f7?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 7472,
+    "stock": 10,
+    "lowStockThreshold": 10,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Phone Case",
+    "price": 1660,
+    "stock": 50,
+    "lowStockThreshold": 20,
+    "image": "https://images.unsplash.com/photo-1592286927505-1def25115558?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Screen Protector",
+    "price": 829,
+    "stock": 8,
+    "lowStockThreshold": 25,
+    "image": "https://images.unsplash.com/photo-1585864299861-351ffa7f1a2c?w=300&h=300&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "price": 2904,
+    "stock": 12,
+    "lowStockThreshold": 10,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=300&h=300&fit=crop"
+  }
+]
